@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Md. Shariful Islam<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Data Analysis with SQL, Python & Power BI</p>
+## I'm Md. Shariful Islam | Driven Data Analyst
 
 ###
 
