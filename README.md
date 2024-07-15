@@ -20,6 +20,10 @@
 
 ## 👩‍💻I'm Md. Shariful Islam | Driven Data Analyst | SQL | Python | Power BI
 
+- 👨‍💻 All of my projects are available at [My Portfolio]()
+
+- 📫 How to reach me: **saykot040@gmail.com**
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
