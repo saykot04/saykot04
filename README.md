@@ -10,7 +10,7 @@
   </a>
   &nbsp;
   <a href="https://fb.com/utso.mondal2019" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook Logo" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook Logo" />
   </a>
   &nbsp;
   <a href="https://kaggle.com/utsomondal" target="_blank">
