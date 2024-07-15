@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook Logo" />
   </a>
  
-  <a href="" target="_blank">
+  <a href="https://www.kaggle.com/saykot007" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Kaggle Logo" />
   </a>
 </div>
