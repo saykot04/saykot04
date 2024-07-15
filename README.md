@@ -28,11 +28,9 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
 ###
 
-## I'm Md. Shariful Islam | Driven Data Analyst
+## 👩‍💻I'm Md. Shariful Islam | Driven Data Analyst
 
 ###
 
